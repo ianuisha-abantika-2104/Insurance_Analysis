@@ -105,7 +105,7 @@ The drill-through page includes:
 ---
 
 ## Dashboard
-![insurance_analysis_main_dashboard](./assests/insurance_analysis_main_dashboard.png)
+![insurance_analysis_main_dashboard](./assets/insurance_analysis_main_dashboard.png)
 ![insurance_analysis_drill_through_page](./assets/insurance_analysis_drill_through_page.png)
 
 ---
