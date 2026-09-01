@@ -102,6 +102,14 @@ The drill-through page includes:
 - Claim Date
 - Claim Number
 
+---
+
+## Dashboard
+![insurance_analysis_main_dashboard](./assests/insurance_analysis_main_dashboard.png)
+![insurance_analysis_drill_through_page](./assets/insurance_analysis_drill_through_page.png)
+
+---
+
 ## 📈 Key Insights
 
 - **Travel policies** generate the highest premium amount among the analyzed policy types.
@@ -111,3 +119,6 @@ The drill-through page includes:
 - Policy type-wise analysis provides a clear comparison of **pending, rejected, and settled claim amounts**.
 
 ---
+
+## Author
+**Anwesha Abantika**
