@@ -104,8 +104,10 @@ The drill-through page includes:
 
 ---
 
-## Dashboard
+## Dashboard Preview
 ![insurance_analysis_main_dashboard](./assets/insurance_analysis_main_dashboard.png)
+
+## Travel Policy Drill Through Page
 ![insurance_analysis_drill_through_page](./assets/insurance_analysis_drill_through_page.png)
 
 ---
